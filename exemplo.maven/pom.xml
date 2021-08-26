@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.dio</groupId>
 	<artifactId>exemplo.maven</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>exemplo.maven</name>
 	<description>Primeiro exemplo usando maven</description>
 	<properties>
