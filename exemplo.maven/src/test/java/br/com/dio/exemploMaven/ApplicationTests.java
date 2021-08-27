@@ -1,4 +1,4 @@
-package br.com.dio.exemplo.maven;
+package br.com.dio.exemploMaven;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
